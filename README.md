@@ -57,6 +57,7 @@ zentrale Säulen sind dabei:
   - Pads, Shared Drive
   - Einfache Nutzung (Easy-to-use)
 - Weiterbildung
+- Support Funding
 
 ### Events
 - einfache Organisation
