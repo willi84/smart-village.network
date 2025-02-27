@@ -58,6 +58,7 @@ zentrale Säulen sind dabei:
   - Einfache Nutzung (Easy-to-use)
 - Weiterbildung
 - Support Funding
+- Community-Building: Protokolle, gemeinsamer Chat)
 
 ### Events
 - einfache Organisation
