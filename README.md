@@ -34,6 +34,8 @@ zentrale Säulen sind dabei:
   - 1–2 Administratoren
   - Entwickler für Open-Source-Weiterentwicklung
 - Langfristige Verfügbarkeit (mindestens 10 Jahre)
+  - Archivierung der Plattformen
+  - API/Durchsuchbarkeit der Projekte 
 - Abrechnung nur bei produktive Nutzung, Unterstützung OpenSource
 
 ## ⚙️ 2. Dokumentation
